@@ -10,8 +10,7 @@ Video Demonstration:
 
 Instructions:
 
-1. Download Project Rhombus on steam: (Free version is the same as $1 version)
-   https://store.steampowered.com/app/735570/Project_Rhombus/
+1. Download [Project Rhombus](https://store.steampowered.com/app/735570/Project_Rhombus/) on steam: (Free version is the same as $1 version)
 2. Install both the pyautogui and pynput Python modules:
    $ pip install pyautogui
    $ pip install pynput
